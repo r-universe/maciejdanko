@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "hopit"]
+	path = hopit
+	url = https://github.com/maciejdanko/hopit
+	shallow = true
+	registered = true
